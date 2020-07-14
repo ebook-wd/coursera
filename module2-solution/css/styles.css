@@ -25,6 +25,9 @@ p {
 div {
   padding: 5px;
 }
+h2 {
+  text-align: right;
+}
 
 /********** Large devices only **********/
 @media (min-width: 992px) {
