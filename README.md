@@ -8,6 +8,6 @@
 
 [Module 2 Solution ](https://ebook-wd.github.io/coursera/module2-solution) 
 
-
+[Module 3 Solution ](https://ebook-wd.github.io/coursera/module3-solution) 
 
 
