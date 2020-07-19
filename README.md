@@ -10,4 +10,6 @@
 
 [Module 3 Solution ](https://ebook-wd.github.io/coursera/module3-solution) 
 
+[Module 4 Solution ](https://ebook-wd.github.io/coursera/module4-solution) 
+
 
