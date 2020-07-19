@@ -59,7 +59,7 @@ for (var i = 0; i < names.length; i++) {
   if (firstLetter === 'j') {
     SpeakHello.speak(names[i]);
   } else {
-   SpeakerGoodBye.speak(names[i]);
+   SpeakGoodBye.speak(names[i]);
   }
 }
 
