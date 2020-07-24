@@ -12,4 +12,6 @@
 
 [Module 4 Solution ](https://ebook-wd.github.io/coursera/module4-solution) 
 
+[Module 5 Solution ](https://ebook-wd.github.io/coursera/module5-solution) 
+
 
